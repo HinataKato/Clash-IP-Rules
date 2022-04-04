@@ -1,4 +1,4 @@
-#2022/3/30
+#2022/4/4
 IP-CIDR,4.144.0.0/12,no-resolve
 IP-CIDR,4.160.0.0/12,no-resolve
 IP-CIDR,4.176.0.0/12,no-resolve
@@ -197,7 +197,6 @@ IP-CIDR,193.221.113.0/24,no-resolve
 IP-CIDR,194.41.16.0/20,no-resolve
 IP-CIDR,194.41.18.0/24,no-resolve
 IP-CIDR,194.41.20.0/24,no-resolve
-IP-CIDR,194.41.22.0/24,no-resolve
 IP-CIDR,194.110.197.0/24,no-resolve
 IP-CIDR,198.49.8.0/24,no-resolve
 IP-CIDR,198.180.95.0/24,no-resolve
@@ -206,6 +205,8 @@ IP-CIDR,198.200.130.0/24,no-resolve
 IP-CIDR,198.206.164.0/24,no-resolve
 IP-CIDR,199.30.16.0/20,no-resolve
 IP-CIDR,199.60.28.0/24,no-resolve
+IP-CIDR,199.65.28.0/24,no-resolve
+IP-CIDR,199.65.29.0/24,no-resolve
 IP-CIDR,199.103.90.0/23,no-resolve
 IP-CIDR,199.103.122.0/24,no-resolve
 IP-CIDR,199.242.32.0/20,no-resolve
