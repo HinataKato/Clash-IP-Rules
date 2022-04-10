@@ -260,7 +260,7 @@ IP-CIDR6,2a01:111:2000::/36,no-resolve
 IP-CIDR6,2a01:111:4000::/36,no-resolve
 IP-CIDR6,2a01:111:4004::/48,no-resolve
 IP-CIDR6,2a01:111:f000::/36,no-resolve
-#AS12076  
+#AS12076
 IP-CIDR,140.16.96.0/24,no-resolve
 IP-CIDR,140.16.97.0/24,no-resolve
 IP-CIDR,140.16.98.0/24,no-resolve
